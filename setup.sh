@@ -210,7 +210,7 @@ brew cask install arduino
 
 ### Dev Editors 
 brew cask install visual-studio-code
-brew cask install pycharm
+brew cask install sublime-text
 ### spacemacs github.com/syl20bnr/spacemacs
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 brew tap d12frosted/emacs-plus
@@ -219,7 +219,6 @@ brew linkapps emacs-plus
 
 
 ### Writing
-brew cask install evernote
 brew cask install macdown
 brew cask install notion
 
@@ -233,13 +232,15 @@ brew cask install screenflow
 ### Productivity
 brew cask install wavebox
 brew cask install google-chrome
+brew cask install firefox
+brew cask install firefox-nightly
 brew cask install alfred
 brew cask install dropbox
 
-brew cask install timing  # time and project tracker
+brew cask install timing  # time and project tracker (NEED TO CHANGE HORO)
 brew cask install keycastr  # show key presses on screen (for gifs & screencasts)
 brew cask install betterzip
-brew cask install caffeine  # keep computer from sleeping
+brew cask install caffeine  # keep computer from sleeping (NEED TO CHANGE AMPETAMINE)
 brew cask install skitch  # app to annotate screenshots
 brew cask install muzzle
 brew cask install flux
@@ -267,8 +268,8 @@ brew cask install signal
 
 
 ### Music and Video
-brew cask install marshallofsound-google-play-music-player
 brew cask install vlc
+### need to add MKplayer
 
 
 ### Run Brew Cleanup
